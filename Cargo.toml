@@ -1,0 +1,12 @@
+[package]
+name = "rust-project"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+http = "0.1"
+now_lambda = "*"
+
+[[bin]]
+name = "index"
+path = "/Users/hattakazuya/Private/rust_hello/index.rs"
