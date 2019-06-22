@@ -37,8 +37,9 @@ fn handler(request: Request<()>) -> http::Result<Response<String>> {
       >
       is the source code.
     </p>
-
-    <h2>Some Projects</h2>
+    <br/>
+    <br/>
+    <h3>Some Projects</h3>
     <li>
       <a
         href='https://wasm-conways-game-of-life.kznovo.now.sh/'
